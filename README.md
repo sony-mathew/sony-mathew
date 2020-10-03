@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Software Developer working remotely 🏖 at [BigBinary](https://www.bigbinary.com/).
+
+Visit my blog/portfolio 📫 @ [https://sony-mathew.github.io/](https://sony-mathew.github.io/).
 <!-- Actual text -->
 
 Find me on [![Twitter][1.2]][1]
