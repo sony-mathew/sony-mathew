@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏖 &nbsp; I'm an Engineer working remotely at [Postman](https://www.postman.com/).
+🏖 &nbsp; I'm an Engineer working at [Postman](https://www.postman.com/).
 
 🧑🏽‍💻 Open Source Contributions
 
